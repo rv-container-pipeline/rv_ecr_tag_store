@@ -1,5 +1,6 @@
 {
   "images": {
-    "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-node-15-alpine": "1.0.0"
+    "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-node-15-alpine": "1.0.0",
+    "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-node-14-alpine": "1.0.0"
   }
 }
