@@ -17,6 +17,6 @@
     "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-alpine-3": "1.0.2",
     "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-node-12-alpine": "1.0.2",
     "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-golang-1.16-alpine": "1.0.2",
-    "146721774157.dkr.ecr.us-east-1.amazonaws.com/kee-node-15-buster": "1.0.1"
+    "146721774157.dkr.ecr.us-east-1.amazonaws.com/kee-node-15-buster": "1.0.2"
   }
 }
