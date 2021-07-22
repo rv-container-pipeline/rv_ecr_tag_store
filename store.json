@@ -32,7 +32,7 @@
     "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-dotnet-sdk-3.1-buster": "1.0.0",
     "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-dotnet-sdk-5-alpine": "1.0.0",
     "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-dotnet-sdk-5-slim": "1.0.0",
-    "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-php-7.4-buster-minimal": "1.0.0",
+    "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-php-7.4-buster-minimal": "1.0.1",
     "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-php-7.4-fpm-alpine": "1.0.2",
     "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-php-7.4-fpm-buster-minimal": "1.0.0",
     "146721774157.dkr.ecr.us-east-1.amazonaws.com/kee-php-7.4-buster-minimal": "1.0.1",
