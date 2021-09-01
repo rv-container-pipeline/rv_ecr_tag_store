@@ -44,6 +44,7 @@
     "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-java-11-jdk-buster-newrelic": "1.0.0",
     "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-java-15-jdk-buster-newrelic": "1.0.0",
     "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-java-16-jdk-buster-newrelic": "1.0.0",
-    "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-java-18-jdk-buster-newrelic": "1.0.0"
+    "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-java-18-jdk-buster-newrelic": "1.0.0",
+    "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-golang-1.17-alpine": "1.0.0"
   }
 }
