@@ -6,7 +6,7 @@
     "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-golang-1.16-buster": "1.0.3",
     "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-golang-1.15-buster": "1.0.1",
     "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-node-12-buster": "1.0.0",
-    "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-node-14-buster": "1.0.1",
+    "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-node-14-buster": "1.0.2",
     "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-node-15-buster": "1.0.0",
     "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-python-3.7-slim": "1.0.3",
     "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-python-3.9-slim": "1.0.3",
