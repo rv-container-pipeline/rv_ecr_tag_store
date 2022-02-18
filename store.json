@@ -48,7 +48,7 @@
     "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-golang-1.17-alpine": "1.0.0",
     "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-dotnet-sdk-3.1-bullseye": "1.0.3",
     "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-dotnet-runtime-6-alpine": "1.0.0",
-    "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-dotnet-sdk-6-alpine": "1.0.0",
+    "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-dotnet-sdk-6-alpine": "1.0.1",
     "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-dotnet-sdk-6-slim": "1.0.1",
     "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-java-17-jdk-buster-newrelic": "1.0.0",
     "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-dotnet-aspnet-6-alpine": "1.0.6"
