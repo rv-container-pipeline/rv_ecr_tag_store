@@ -13,7 +13,7 @@
     "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-python-3.8-slim": "1.0.4",
     "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-python-3.9-buster": "1.0.6",
     "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-python-3.8-buster": "1.0.3",
-    "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-python-3.7-buster": "1.0.2",
+    "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-python-3.7-buster": "1.0.3",
     "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-alpine-3": "1.2.2",
     "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-node-12-alpine": "1.0.2",
     "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-golang-1.16-alpine": "1.0.5",
