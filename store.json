@@ -39,7 +39,7 @@
     "146721774157.dkr.ecr.us-east-1.amazonaws.com/kee-dotnet-sdk-5-alpine": "1.0.1",
     "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-php-8.0-buster-minimal": "1.0.2",
     "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-php-8.0-fpm-buster-minimal": "1.0.2",
-    "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-php-8.0-fpm-alpine": "1.0.4",
+    "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-php-8.0-fpm-alpine": "1.0.5",
     "/rv-node-14-buster": "1.0.1",
     "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-java-11-jdk-buster-newrelic": "1.0.0",
     "089022728777.dkr.ecr.us-east-1.amazonaws.com/rv-java-15-jdk-buster-newrelic": "1.0.1",
